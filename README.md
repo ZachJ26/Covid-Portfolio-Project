@@ -1,0 +1,1 @@
+This is my portfolio project where I take a deep dive into Covid data from https://ourworldindata.org/coronavirus using SQL. I use various SQL techniques such as JOINS, Common Table Expression, and VIEWS to explore the data and set up queries for data visualization
